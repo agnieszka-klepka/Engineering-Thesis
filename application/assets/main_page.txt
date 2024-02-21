@@ -1,0 +1,40 @@
+TESTY RÓWNOWAGi
+
+    Ocena równowagi jest kluczowym aspektem diagnostyki medycznej i rehabilitacji, szczególnie istotnym dla osób starszych, pacjentów po urazach oraz osób z zaburzeniami
+    neurologicznymi. Istnieja rózne rodzaje testów równowagi, które sluza do oceny róznych aspektów stabilnosci ciala. Test Romberga skupia sie na propriocepcji i jest
+    często stosowany u pacjentów z zaburzeniami równowagi, takimi jak choroby neurologiczne. Osoba jest proszona o zamkniecie oczu i utrzymanie pozycji stojacej, a lekarz
+    obserwuje drgania ciala, które moga wskazywac na problemy z propriocepcja. Test Berg jest czesto uzywany w geriatrii i ocenia zdolnosc pacjenta do wykonywania codziennych
+    czynnosci, takich jak chodzenie, wstawanie lub podnoszenie przedmiotów. Skala Berga ocenia ogólna sprawnosc i równowage.
+    Testy postawy ciala sa wykorzystywane do diagnozowania zaburzen równowagi zwiazanych z narzadem przedsionkowym i obejmuja rózne pozycje glowy i ciala. Testy platformy
+    stabilometrycznej wykorzystuja zaawansowane technologie do analizy cisnienia stóp na powierzchni, co umozliwia dokladne pomiarowanie parametrów równowagi.
+    Coraz czesciej stosuje sie takze technologie wirtualnej rzeczywistosci (VR) do oceny równowagi, co pozwala na precyzyjna analize reakcji pacjentów na bodzce w trudnych
+    warunkach.
+    Testy równowagi sa niezbednym narzedziem w diagnostyce i terapii, pomagajac w identyfikacji problemów z równowaga, dostosowywaniu planów leczenia i monitorowaniu postepów
+    rehabilitacji, co ma kluczowe znaczenie dla poprawy jakosci zycia pacjentów.
+
+    Aktualnie widzisz główne okno aplikacji. Po zalogowaniu masz dostęp do wyników swoich poprzednich testów, jak również w konkretnych zakładkach możesz znaleźć sekcję do
+    przeprowadzenia testów. Aplikacja zawiera 5 zakładek na pasku bocznym oraz przycisk, który wylogowuje użytkownika oraz kończy działanie aplikacji.
+
+    W aplikacji znajduje się zakładka o nazwie “TEST ROMBERGA”, w której znajdują się aktualnie 4 testy równowagi. Jest to: stanie na dwóch nogach z rękami wzdłuż ciała, stanie
+    na dwóch nogach z podniesionymi rękami na wysokość barków, stanie na jednego nodze z rękami wzdłuż ciała oraz stanie na jednej nodze z rękami podniesionymi. Każdy test jest
+    opatrzony poglądową grafiką oraz opisem, jak należy przygotować się do poszczególnego testu. Badanie trwa 30 sekund. Każdy etap podczas przeprowadzania testu jest opisany
+    powyżej widoku kamery.
+
+    Zakładka “TEST BERG” zawiera 4 testy. Każdy test przeprowadzany jest oddzielnie, podobnie jak w przypadku testu Romberga. Czas na przygotowanie nie jest określony, a test
+    można powtarzać.
+    W części “WYNIKI” jest podgląd do rezultatów wcześniej przeprowadzonych testów razem z ich datą i godziną.
+
+    Design aplikacji został zaprojektowany zgodnie ze standardem Google’a, Material Design [1].
+    Grafiki zostały zaprojektowane z wykorzystaniem elementów w aplikacji Linaerity Curve [2].
+
+    WSKAZÓWKI PRZED BADANIEM
+    • laptop wyposażony w kamerkę powinien stać powyżej wysokości twoich kolan,
+    • ubierz się wygodnie, by móc utrzymać pozycje
+    • zadbaj o dobre oświetlenie
+    • po włączeniu testu będziesz mieć podgląd kamerki zanim test się zacznie; upewnij się, że w kamerze widać całą Twoją sylwetkę
+    • stań w wyznaczonym miejscu na ekranie
+    • stań idealnie na przeciwko kamery, nie bokiem, chyba, że w teście powiedziano inaczej
+
+    BIBLIOGRAFIA
+    [1] https://m3.material.io
+    [2] https://www.linearity.io/curve/
